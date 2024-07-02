@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I am a travel enthusiast and photography lover.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://twitter.com/emon12940622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emon12940622" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-naimul-hasan-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-naimul-hasan-emon" height="30" width="40" /></a>
 <a href="https://fb.com/mustakim.emon.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustakim.emon.7" height="30" width="40" /></a>
