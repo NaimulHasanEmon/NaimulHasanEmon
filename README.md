@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md. Naimul Hasan</h1>
 <h3 align="center">A computer science undergraduate specializing in the MERN stack, machine learning, and computer vision, with a passion for tackling complex coding challenges.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/NaimulHasanEmon/NaimulHasanEmon/blob/main/Animation%20without%20bg.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/NaimulHasanEmon/NaimulHasanEmon/blob/main/Animation%20with%20bg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulhasanemon&label=Profile%20views&color=0e75b6&style=flat" alt="naimulhasanemon" /> </p>
 
