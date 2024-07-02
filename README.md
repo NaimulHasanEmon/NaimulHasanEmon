@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/emon12940622" target="blank"><img src="https://img.shields.io/twitter/follow/emon12940622?logo=twitter&style=for-the-badge" alt="emon12940622" /></a> </p>
 
-- 🔭 I’m currently working on [my Computer Vision skills OpenCV](https://github.com/NaimulHasanEmon/OpenCV-Basics)
+- 🔭 I’m currently working on [Computer Vision (OpenCV)](https://github.com/NaimulHasanEmon/OpenCV-Basics)
 
 - 🌱 I’m currently learning **Machine Learning, OpenCV and Web Development**
 
