@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://github.com/NaimulHasanEmon/NaimulHasanEmon/blob/main/github-header-image.png)](https://naimulhasanemon.netlify.app/)
 <h1 align="center">Hi 👋, I'm Md. Naimul Hasan</h1>
 <h3 align="center">A computer science undergraduate specializing in the MERN stack, machine learning, and computer vision, with a passion for tackling complex coding challenges.</h3>
 
