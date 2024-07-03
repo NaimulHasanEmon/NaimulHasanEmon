@@ -4,9 +4,21 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/NaimulHasanEmon/NaimulHasanEmon/blob/main/Animation.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimulhasanemon&label=Profile%20views&color=0e75b6&style=flat" alt="naimulhasanemon" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=naimulhasanemon&label=Profile%20views&color=0e75b6&style=flat" alt="naimulhasanemon" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/emon12940622" target="blank"><img src="https://img.shields.io/twitter/follow/emon12940622?logo=twitter&style=for-the-badge" alt="emon12940622" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-naimul-hasan-emon/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="md-naimul-hasan-emon" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://x.com/Emon12940622" target="blank">
+    <img src="https://img.shields.io/twitter/follow/emon12940622?logo=twitter&style=for-the-badge" alt="Emon12940622" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Computer Vision (OpenCV)](https://github.com/NaimulHasanEmon/OpenCV-Basics)
 
