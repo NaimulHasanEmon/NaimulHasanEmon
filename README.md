@@ -4,7 +4,7 @@
 <hr>
 <p align="center">
 <a href="https://github.com/NaimulHasanEmon/">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Md.+Naimul+Hasan;B.Sc+Student+%7C+MERN+Stake+Developer;Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Md.+Naimul+Hasan;+B.Sc+in+CSE+%7C+MERN+Stake+Developer;Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
 </a>
 
 <!-- <a href="https://gkos.dev/Resume.pdf">
