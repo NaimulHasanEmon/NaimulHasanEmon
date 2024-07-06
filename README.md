@@ -3,7 +3,7 @@
 -->
 <hr>
 <!-- Color was 57BCDA -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=30&fontColor=29B6F6&animation=twinkling&fontAlignY=25"/> 
 
 <p align="center">
 <a href="https://github.com/NaimulHasanEmon/">
