@@ -2,6 +2,9 @@
     [![MasterHead](https://github.com/NaimulHasanEmon/NaimulHasanEmon/blob/main/github-header-image.png)](https://naimulhasanemon.netlify.app/)
 -->
 <hr>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=150&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/> 
+
 <p align="center">
 <a href="https://github.com/NaimulHasanEmon/">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Md.+Naimul+Hasan;+B.Sc+in+CSE+%7C+MERN+Stake+Developer;Machine+Learning+%7C+Computer+Vision" alt="Typing SVG" />
@@ -72,7 +75,12 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QqXsMqQ4I9u7woMLc_7ma6YYClPCU3er/view?usp=sharing](https://drive.google.com/file/d/1QqXsMqQ4I9u7woMLc_7ma6YYClPCU3er/view?usp=sharing)
 
 - ⚡ Fun fact **I am a travel enthusiast and photography lover.**
-<br>
+<be>
+
+## Your visitor
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
+![Visitor Count](https://profile-counter.glitch.me/{lodhik9}/count.svg)
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/md-naimul-hasan-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-naimul-hasan-emon" height="30" width="40" /></a>
 <a href="https://fb.com/mustakim.emon.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustakim.emon.7" height="30" width="40" /></a>
@@ -138,5 +146,13 @@
     </a>
 </p>
 
+<br>
+
+[![Naimul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaimulHasanEmon&bg_color=162527&color=00aaff&line=4e89c1&point=35ede1&area=true&hide_border=true)](https://github.com/NaimulHasanEmon)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulHasanEmon&theme=react&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=NaimulHasanEmon&theme=react&hide_border=true)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer"/>
+</p>
