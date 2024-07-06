@@ -76,18 +76,20 @@
 
 - ⚡ Fun fact **I am a travel enthusiast and photography lover.**
 <br>
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/md-naimul-hasan-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-naimul-hasan-emon" height="30" width="40" /></a>
-<a href="https://fb.com/mustakim.emon.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustakim.emon.7" height="30" width="40" /></a>
-<a href="https://instagram.com/naimulhasan_emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimulhasan_emon" height="30" width="40" /></a>
-<a href="https://twitter.com/emon12940622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emon12940622" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/emon12700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="emon12700" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/emon12700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emon12700" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+    <a href="https://linkedin.com/in/md-naimul-hasan-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-naimul-hasan-emon" height="30" width="40" /></a>
+    <a href="https://fb.com/mustakim.emon.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustakim.emon.7" height="30" width="40" /></a>
+    <a href="https://instagram.com/naimulhasan_emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naimulhasan_emon" height="30" width="40" /></a>
+    <a href="https://twitter.com/emon12940622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emon12940622" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/emon12700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="emon12700" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/emon12700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emon12700" height="30" width="40" /></a>
+</div>
 </p>
 <be>
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -143,10 +145,17 @@
 
 <br>
 
-[![Naimul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NaimulHasanEmon&bg_color=162527&color=00aaff&line=4e89c1&point=35ede1&area=true&hide_border=true)](https://github.com/NaimulHasanEmon)
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaimulHasanEmon&theme=react)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulHasanEmon&theme=react&show_icons=true&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaimulHasanEmon&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaimulHasanEmon&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaimulHasanEmon&theme=react&utcOffset=8)
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=NaimulHasanEmon&theme=react&hide_border=true)
+
+</div>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer"/>
