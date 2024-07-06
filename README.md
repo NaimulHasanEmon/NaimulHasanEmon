@@ -75,12 +75,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QqXsMqQ4I9u7woMLc_7ma6YYClPCU3er/view?usp=sharing](https://drive.google.com/file/d/1QqXsMqQ4I9u7woMLc_7ma6YYClPCU3er/view?usp=sharing)
 
 - ⚡ Fun fact **I am a travel enthusiast and photography lover.**
-<be>
-
-## Your visitor
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
-![Visitor Count](https://profile-counter.glitch.me/{lodhik9}/count.svg)
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/md-naimul-hasan-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-naimul-hasan-emon" height="30" width="40" /></a>
 <a href="https://fb.com/mustakim.emon.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustakim.emon.7" height="30" width="40" /></a>
