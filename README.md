@@ -2,8 +2,8 @@
     [![MasterHead](https://github.com/NaimulHasanEmon/NaimulHasanEmon/blob/main/github-header-image.png)](https://naimulhasanemon.netlify.app/)
 -->
 <hr>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=150&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/> 
+<!-- Color was 57BCDA -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=25"/> 
 
 <p align="center">
 <a href="https://github.com/NaimulHasanEmon/">
