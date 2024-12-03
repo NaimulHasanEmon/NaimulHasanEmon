@@ -62,17 +62,17 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Computer Vision (OpenCV)](https://github.com/NaimulHasanEmon/OpenCV-Basics)
+- 🔭 I’m currently working on [Learning react](https://react-world-visit.netlify.app/)
 
 - 🌱 I’m currently learning **Machine Learning, OpenCV and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://naimulhasanemon.netlify.app/](https://naimulhasanemon.netlify.app/)
+- 👨‍💻 All of my projects are available at [PROJECTS](https://github.com/NaimulHasanEmon?tab=repositories)
 
 - 💬 Ask me about **Python, OpenCV, JavaScript, React**
 
 - 📫 How to reach me **naimulhasan.cse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QqXsMqQ4I9u7woMLc_7ma6YYClPCU3er/view?usp=sharing](https://drive.google.com/file/d/1QqXsMqQ4I9u7woMLc_7ma6YYClPCU3er/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://docs.google.com/document/d/1CYKvh5gM-EDElbH53uzlmAPa7U_8HLeYADv59XMQnys/edit?usp=sharing)
 
 - ⚡ Fun fact **I am a travel enthusiast and photography lover.**
 <br>
