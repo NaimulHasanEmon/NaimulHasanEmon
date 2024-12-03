@@ -62,7 +62,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Learning react](https://react-world-visit.netlify.app/)
+- 🔭 I’m currently working on [react](https://react-world-visit.netlify.app/)
 
 - 🌱 I’m currently learning **Machine Learning, OpenCV and Web Development**
 
