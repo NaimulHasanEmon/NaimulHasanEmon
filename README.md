@@ -135,14 +135,15 @@
 <br>
 
 <div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaimulHasanEmon&theme=react)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaimulHasanEmon&theme=react)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaimulHasanEmon&theme=react)
-
+![NaimulHasanEmon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimulHasanEmon&theme=react&show_icons=true&hide_border=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaimulHasanEmon&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaimulHasanEmon&theme=react&utcOffset=8)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=NaimulHasanEmon&theme=react&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaimulHasanEmon&theme=react)
+![NaimulHasanEmon's Stats](https://github-readme-stats.vercel.app/api?username=NaimulHasanEmon&theme=react&show_icons=true&hide_border=true&count_private=true)
+![NaimulHasanEmon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaimulHasanEmon&theme=react&hide_border=true)
 
 </div>
 
