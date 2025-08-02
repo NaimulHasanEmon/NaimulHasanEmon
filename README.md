@@ -62,8 +62,8 @@
 </p>
 <be>
 <br>
-<!-- Data Science & Machine Learning Libraries -->
-<h3 align="center">Data Science & Machine Learning Libraries:</h3>
+<!-- Data Science, Machine Learning & Flask Libraries -->
+<h3 align="center">Data Science, Machine Learning & Flask Libraries:</h3>
 <p align="center">
   <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy"/>
@@ -82,6 +82,9 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
   </a>
 </p>
 
